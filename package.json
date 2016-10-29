@@ -1,0 +1,11 @@
+{
+  "name": "hyper-tomorrow-night",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:severinkaderli/hyper-tomorrow-night",
+    "type": "git"
+  },
+  "author": "Severin Kaderli <severin.kaderli@gmail.com>",
+  "license": "MIT"
+}
