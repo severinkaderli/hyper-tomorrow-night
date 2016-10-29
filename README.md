@@ -1,6 +1,4 @@
 # hyper-tomorrow-night
-[![NPM Version][npm-image]][npm-url]
-
 [![npm](https://img.shields.io/npm/dt/hyper-tomorrow-night.svg)](https://www.npmjs.com/package/hyper-tomorrow-night)
 [![npm](https://img.shields.io/npm/v/hyper-tomorrow-night.svg)](https://www.npmjs.com/package/hyper-tomorrow-night)
 
