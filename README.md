@@ -4,5 +4,5 @@
 
 [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme#tomorrow-night) theme for [Hyper](https://hyper.is/).
 
-## Installtion
+## Installation
 Add `hyper-tomorrow-night` to plugins in `.hyper.js`.
