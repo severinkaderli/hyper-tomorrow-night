@@ -22,5 +22,13 @@ exports.decorateConfig = config => {
     "#FFFFFF",
     "#C5C8C6"
   ];
-  return config;
+   config.css = `
+      ${config.css || ''}
+      .tabs_nav .tabs_list .tab_text {
+        color: ${config.foregroundColor};
+      }
+      .tabs_nav .tabs_title {
+        color: ${config.foregroundColor};
+      }
+  `;  return config;
 }
