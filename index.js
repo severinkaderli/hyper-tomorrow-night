@@ -1,5 +1,5 @@
 exports.decorateConfig = config => {
-  config.cursorColor = "rgba(55, 59, 65, 0.5)";
+  config.cursorColor = "rgba(255, 255, 255, 0.7)";
   config.foregroundColor = "#C5C8C6";
   config.backgroundColor = "#1D1F21";
   config.borderColor = "#373B41";
